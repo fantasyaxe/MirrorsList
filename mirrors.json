@@ -5,17 +5,17 @@
         "client": "https://launcher.mojang.com/v1/objects/465378c9dc2f779ae1d6e8046ebc46fb53a57968/client.jar",
         "server": "https://launcher.mojang.com/v1/objects/f9ae3f651319151ce99a0bfad6b34fa16eb6775f/server.jar",
         "CFR": "https://www.benf.org/other/cfr/cfr-0.152.jar",
-        "SpecialSource": "https://github.com/Re-Minecraft/SpecialSource/releases/download/1.11.5/SpecialSource.jar"
+        "SpecialSource": "https://github.com/MCRebooted/SpecialSource/releases/download/1.11.5/SpecialSource.jar"
       },
       "game": {
         "client": {
-          "khutor": "https://github.com/Re-Minecraft/khutor217/releases/download/0.0.0-Dev/khutor.jar"
+          "khutor": "https://github.com/MCRebooted/khutor217/releases/download/0.0.0-Dev/khutor.jar"
         },
         "server": {
           
         },
         "both": {
-          "NiceLoader": "https://github.com/Re-Minecraft/NiceLoader/releases/download/0.0.0-Dev/NiceLoader.jar",
+          "NiceLoader": "https://github.com/MCRebooted/NiceLoader/releases/download/0.0.0-Dev/NiceLoader.jar",
           "gson": "https://search.maven.org/remotecontent?filepath=com/google/code/gson/gson/2.13.1/gson-2.13.1.jar"
         }
       }
