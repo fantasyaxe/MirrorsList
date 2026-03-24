@@ -8,6 +8,7 @@
         "SpecialSource": "https://github.com/fantasyaxe/SpecialSource/releases/download/1.11.5/SpecialSource.jar"
       },
       "build": {
+        "gradle-wrapper.properties": "https://raw.githubusercontent.com/fantasyaxe/BuilderScripts/refs/heads/main/build/versions/vanila/gradle-wrapper.properties",
         "build.gradle.kts": "https://raw.githubusercontent.com/fantasyaxe/BuilderScripts/refs/heads/main/build/versions/vanila/build.gradle.kts",
         "gradle.properties": "https://raw.githubusercontent.com/fantasyaxe/BuilderScripts/refs/heads/main/build/versions/vanila/gradle.properties",
         "settings.gradle.kts": "https://raw.githubusercontent.com/fantasyaxe/BuilderScripts/refs/heads/main/build/versions/vanila/settings.gradle.kts"
